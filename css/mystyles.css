@@ -1,0 +1,48 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+<style>
+.borderexample {
+ border-width:3px;
+ border-style:solid;
+ border-color:#287EC7;
+}
+</style>
+
+html, body {
+    height: 100%;
+    }
+    
+    html {
+    display: table;
+    margin: auto;
+    }
+    
+   
+
+    .checklist {
+    position: relative;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+}
+
+    body {
+    display: table-cell;
+    vertical-align: middle;
+    }
+
+.emphasizedtext{
+    font-style: italic;
+    color:deeppink;
+}
+
+body{
+    background-color:azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
